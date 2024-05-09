@@ -1,3 +1,4 @@
 *.exe
 *.pyc
 *.txt
+.github/workflows/test.yml
